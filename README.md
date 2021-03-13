@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://user-images.githubusercontent.com/68074047/111035916-de645480-841c-11eb-9aeb-f12ffd0fec70.png
 ```js
 const RotrixxLOL = {
   pronouns: "he" | "him",
@@ -6,6 +7,14 @@ const RotrixxLOL = {
   tools: [React, Node, Storybook, Docker]
 }
 ```
+
+
+
+
+
+
+
+
 <!--
 **RotrixxLOL/RotrixxLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
