@@ -19,6 +19,9 @@ You can find me 🌍 :
 - [Discord Server](https://discord.gg/cjyQPGN2BV)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotrixxLOL)
+
+
 
 
 
