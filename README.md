@@ -12,6 +12,12 @@ const RotrixxLOL = {
 }
 ```
 
+You can find me 🌍 :
+- [Web](retixleaks.es)
+- [Twitter](https://twitter.com/ItsRetix43)
+- [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
+- [Discord Server](https://discord.gg/cjyQPGN2BV)
+
 
 
 
