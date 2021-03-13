@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm RotrixxLOL 👋 👨‍💻
 ![BANNER-ROTRIXX](https://user-images.githubusercontent.com/68074047/111035916-de645480-841c-11eb-9aeb-f12ffd0fec70.png)
 ```js
 const RotrixxLOL = {
