@@ -2,9 +2,13 @@
 ![BANNER-ROTRIXX](https://user-images.githubusercontent.com/68074047/111035916-de645480-841c-11eb-9aeb-f12ffd0fec70.png)
 ```js
 const RotrixxLOL = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Node, Storybook, Docker]
+  technologies: 'web',
+  passions: ['games development','web performance','web development','ethic hacking']
+  levels: [
+    hacking: 2
+    web_dev:8
+    game_dev:4
+  ]
 }
 ```
 
