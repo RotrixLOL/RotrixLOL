@@ -1,5 +1,7 @@
 ### Hi, I'm RotrixxLOL 👋 👨‍💻
 ![BANNER-ROTRIXX](https://user-images.githubusercontent.com/68074047/111035916-de645480-841c-11eb-9aeb-f12ffd0fec70.png)
+
+## About my code
 ```js
 const RotrixxLOL = {
   technologies: 'web',
@@ -12,7 +14,8 @@ const RotrixxLOL = {
 }
 ```
 
-You can find me 🌍 :
+## You can find me 🌍 :
+
 - [Web](retixleaks.es)
 - [Twitter](https://twitter.com/ItsRetix43)
 - [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
