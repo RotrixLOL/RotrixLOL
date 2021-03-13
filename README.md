@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+```js
+const RotrixxLOL = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Node, Storybook, Docker]
+}
+```
 <!--
 **RotrixxLOL/RotrixxLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
