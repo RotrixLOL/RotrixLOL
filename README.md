@@ -17,11 +17,11 @@ const RotrixxLOL = {
 ## You can find me 🌍 :
 
 - [Web](retixleaks.es)
-- [Twitter](https://twitter.com/ItsRetix43)
+- [Twitter](https://twitter.com/RotrixxLOL)
 - [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
 - [Discord Server](https://discord.gg/cjyQPGN2BV)
 
-<a href="https://twitter.com/ItsRetix43">
+<a href="https://twitter.com/RotrixxLOL">
   <img align="left" alt="ItsRetix43 | Twitter" width="25
                                                       
                                                       px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -62,13 +62,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [RetixLeaks](https://github.com/RotrixxLOL/RetixLeaks)
 
-- 🌱 I’m currently learning **electron.js, CSS, React, Angular**
+- 🌱 I’m currently learning **electron.js, CSS, React, Angular, Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RotrixxLOL/](https://github.com/RotrixxLOL/)
 
 - 📝 I regularly write articles on [retixleaks.es](retixleaks.es)
 
-- 💬 Ask me about **html5, basic css, discord bots, minecraft mods and plugins, c, python**
+- 💬 Ask me about **html5, css, js, Discord bots, Minecraft mods and plugins, C#, Python**
 
 - 📫 How to reach me **ncusnir43@gmail.com**
 
