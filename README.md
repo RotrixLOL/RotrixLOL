@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsretix43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsretix43" height="30" width="40" /></a>
-<a href="https://fb.com/retix.celix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="retix.celix" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rotrixxlol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rotrixxlol" height="30" width="40" /></a>
-<a href="https://discord.gg/cjyQPGN2BV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cjyQPGN2BV" height="30" width="40" /></a>
+<a href="https://twitter.com/RotrixxLOL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsretix43" height="30" width="40" /></a>
+<a href="https://fb.com/rotrix.lo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="retix.celix" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rotrixxlol" height="30" width="40" /></a>
+<a href="https://discord.gg/4FYvQSy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cjyQPGN2BV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
