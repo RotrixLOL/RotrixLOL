@@ -21,15 +21,6 @@ const RotrixxLOL = {
 - [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
 - [Discord Server](https://discord.gg/cjyQPGN2BV)
 
-<a href="https://twitter.com/RotrixxLOL">
-  <img align="left" alt="ItsRetix43 | Twitter" width="25
-                                                      
-                                                      px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="https://discord.gg/cjyQPGN2BV">
-  <img align="left" alt="RotrixxLOL's Discord" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotrixxLOL)
 
