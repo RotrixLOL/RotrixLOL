@@ -16,7 +16,7 @@ const RotrixxLOL = {
 
 ## You can find me 🌍 :
 
-- [Web](rotrixx.eu)
+- [Web](https://rotrixx.eu)
 - [Twitter](https://twitter.com/RotrixxLOL)
 - [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
 - [Discord Server](https://discord.gg/cjyQPGN2BV)
