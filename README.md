@@ -1,15 +1,12 @@
-### Hi, I'm RotrixxLOL 👋 👨‍💻
-<!-- ![BANNER-ROTRIXX](https://user-images.githubusercontent.com/68074047/111035916-de645480-841c-11eb-9aeb-f12ffd0fec70.png) -->
-
 ## About my code
 ```js
-const RotrixxLOL = {
+const RotrixX = {
   technologies: 'web',
-  passions: ['games development','web performance','web development','ethic hacking']
+  passions: ['web development': true,'ethic hacking': any]
   levels: [
-    hacking: 2
-    web_dev:8
-    game_dev:4
+    web_dev:9,
+    game_dev:4,
+    hacking: 3
   ]
 }
 ```
@@ -19,58 +16,35 @@ const RotrixxLOL = {
 - [Web](https://rotrixx.eu)
 - [Twitter](https://twitter.com/RotrixxLOL)
 - [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
-- [Discord Server](https://discord.gg/cjyQPGN2BV)
+- [Discord Server](https://discord.gg/4FYvQSy)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotrixX)
-
-
-
-
-
-
-
-
-<!--
-**RotrixxLOL/RotrixxLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotrixLOL)
 
 
 <h1 align="center">Hi 👋, I'm RotrixxLOL</h1>
-<h3 align="center">A passionate frontend developer from Catalonia,Spain</h3>
+<h3 align="center">A passionate frontend developer from Catalonia,Spain and soon Full Stack</h3>
 
-- 🔭 I’m currently working on [RetixLeaks](https://github.com/RotrixxLOL/RetixLeaks)
+- 🔭 I’m currently working on [rotrixx.eu](https://rotrixx.eu)
 
-- 🌱 I’m currently learning **electron.js, CSS, React, Angular, Vue**
+- 🌱 I’m currently learning **electron.js, Python, Axios**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RotrixxLOL/](https://github.com/RotrixxLOL/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotrixxLOL/)
 
-- 📝 I regularly write articles on [retixleaks.es](retixleaks.es)
+<!-- - 📝 I regularly write articles on nothing xd -->
 
-- 💬 Ask me about **html5, css, js, Discord bots, Minecraft mods and plugins, C#, Python**
+- 💬 Ask me about **html5, vue, axios, css, js, Discord bots, Python**
 
-- 📫 How to reach me **ncusnir43@gmail.com**
+- 📫 How to reach me [**rotrixxlol+contact@gmail.com**](mailto:rotrixxlol+contact@gmail.com)
+                  or **RotrixX#3867** at Discord
 
-- ⚡ Fun fact **I am interesting**
+- ⚡ Fun fact **I am curious and interesting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RotrixxLOL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsretix43" height="30" width="40" /></a>
-<a href="https://fb.com/rotrix.lo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="retix.celix" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rotrixxlol" height="30" width="40" /></a>
-<a href="https://discord.gg/4FYvQSy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cjyQPGN2BV" height="30" width="40" /></a>
+<a href="https://twitter.com/RotrixxLOL" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsretix43" height="30" width="40" /></a>
+<a href="https://fb.com/rotrix.lo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="retix.celix" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rotrixxlol" height="30" width="40" /></a>
+<a href="https://discord.gg/4FYvQSy" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cjyQPGN2BV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
