@@ -22,7 +22,7 @@ const RotrixX = {
 
 
 <h1 align="center">Hi 👋, I'm RotrixxLOL</h1>
-<h3 align="center">A passionate frontend developer from Catalonia,Spain and soon Full Stack</h3>
+<h3 align="center">A passionate Frontend developer and soon Full Stack from Catalonia, Spain</h3>
 
 - 🔭 I’m currently working on [rotrixx.eu](https://rotrixx.eu)
 
