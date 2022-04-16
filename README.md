@@ -5,7 +5,6 @@ const RotrixX = {
   passions: ['web development': true,'ethic hacking': any]
   levels: [
     web_dev:9,
-    game_dev:4,
     hacking: 3
   ]
 }
@@ -26,23 +25,23 @@ const RotrixX = {
 
 - 🔭 I’m currently working on [rotrixx.eu](https://rotrixx.eu)
 
-- 🌱 I’m currently learning **electron.js, Python, Axios**
+- 🌱 I’m currently learning **Axios**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotrixxLOL/)
 
 <!-- - 📝 I regularly write articles on nothing xd -->
 
-- 💬 Ask me about **html5, vue, axios, css, js, Discord bots, Python**
+- 💬 Ask me about **python, html, css, js, axios, Vue, React.js, NextJS, discord bots and anything about webdev!**
 
 - 📫 How to reach me [**rotrixxlol+contact@gmail.com**](mailto:rotrixxlol+contact@gmail.com)
                   or **RotrixX#3867** at Discord
 
-- ⚡ Fun fact **I am curious and interesting**
+- ⚡ Fun fact **I am a curious and interesting person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RotrixxLOL" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsretix43" height="30" width="40" /></a>
-<a href="https://fb.com/rotrix.lo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="retix.celix" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/rotrix.lo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="retix.celix" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rotrixxlol" height="30" width="40" /></a>
 <a href="https://discord.gg/4FYvQSy" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cjyQPGN2BV" height="30" width="40" /></a>
 </p>
