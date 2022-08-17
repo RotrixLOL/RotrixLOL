@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm RotrixxLOL</h1>
 <h3 align="center">A passionate Frontend developer and soon Full Stack from Catalonia, Spain</h3>
 
-## You can find me 🌍 :
-
-- [Web](https://whoami.rotrixx.eu)
-- [Twitter](https://twitter.com/RotrixxLOL)
-- [Youtube](https://www.youtube.com/channel/UC8k_BzbKVmcnjs0ecY6Vc0Q)
-- [Discord Server](https://discord.gg/4FYvQSy)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotrixLOL)
 
 - 🔭 I’m currently working on [rotrixx.eu](https://rotrixx.eu)
