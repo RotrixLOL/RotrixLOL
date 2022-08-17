@@ -1,14 +1,6 @@
-## About my code
-```js
-const RotrixX = {
-  technologies: 'web',
-  passions: ['web development': true,'ethic hacking': any]
-  levels: [
-    web_dev:9,
-    hacking: 3
-  ]
-}
-```
+
+<h1 align="center">Hi 👋, I'm RotrixxLOL</h1>
+<h3 align="center">A passionate Frontend developer and soon Full Stack from Catalonia, Spain</h3>
 
 ## You can find me 🌍 :
 
@@ -19,17 +11,13 @@ const RotrixX = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RotrixLOL)
 
-
-<h1 align="center">Hi 👋, I'm RotrixxLOL</h1>
-<h3 align="center">A passionate Frontend developer and soon Full Stack from Catalonia, Spain</h3>
-
 - 🔭 I’m currently working on [rotrixx.eu](https://rotrixx.eu)
 
 - 🌱 I’m currently learning **Axios**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/RotrixxLOL/)
 
-<!-- - 📝 I regularly write articles on nothing xd -->
+- 📝 I regularly write articles on nothing
 
 - 💬 Ask me about **python, html, css, js, axios, Vue, React.js, NextJS, discord bots and anything about webdev!**
 
