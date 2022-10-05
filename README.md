@@ -119,8 +119,8 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [So... I&#39;m new here. Yes](https://dev.to/rotrixx/so-im-new-here-yes-4090)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
