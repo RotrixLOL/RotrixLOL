@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm RotrixX, a full-stack developer 👨‍💻 since 2013 🚀</div>  
+### <div align="center">I'm RotrixX, a full-stack developer 👨‍💻 since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [RotrixX Blog](https://github.com/RotrixLOL/blog)  
