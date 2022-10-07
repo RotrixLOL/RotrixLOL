@@ -138,3 +138,7 @@
 
 <div align="center"></div>
 <br />
+<hr />
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" align center />
+<div/>
