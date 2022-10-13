@@ -117,6 +117,9 @@
 
 <br/>  
 
+## Awards
+[![@rotrixx's Holopin board](https://holopin.me/rotrixx)](https://holopin.io/@rotrixx)
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
