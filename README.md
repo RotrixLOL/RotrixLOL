@@ -123,6 +123,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Please stop using create react app.](https://dev.to/rotrixx/please-stop-using-create-react-app-2n3h)
 - [Please stop using create react app.](https://blog.rotrixx.eu/please-stop-using-create-react-app)
 - [So... I&#39;m new here. Yes](https://dev.to/rotrixx/so-im-new-here-yes-4090)
 <!-- BLOG-POST-LIST:END -->  
