@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [RotrixX Blog](https://github.com/RotrixLOL/blog)  
   
 
-- 🌱 I’m currently learning nothing  
+- 🌱 I’m currently learning **Algorithms and Data Structures**
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
