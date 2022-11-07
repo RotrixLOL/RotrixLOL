@@ -129,7 +129,7 @@
 
 <br/>  
 
-<div align="center"><a href="https://app.daily.dev/RotrixX"><img src="https://api.daily.dev/devcards/41dfb10905dd4a32a60ef07d0eda3913.png?r=ugy" width="400" alt="RotrixX's Dev Card"/></a></div>
+<div align="center"><a href="https://app.daily.dev/RotrixX"><img src="https://github.com/RotrixLOL/RotrixLOL/blob/main/devcard.svg" width="400" alt="RotrixX's Dev Card"/></a></div>
 
 <!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qo5vgni3j6dt2rmxg74dx4f5pm&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div> -->
 
