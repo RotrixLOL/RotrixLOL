@@ -6,7 +6,7 @@
 ### <div align="center">I'm RotrixX, a full-stack developer 👨‍💻 since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [RotrixX Blog](https://github.com/RotrixLOL/blog)  
+- 🔭 I’m currently working on [RotrixX Projects](https://rotrixx.eu)  
   
 
 - 🌱 I’m currently learning **Algorithms and Data Structures**
@@ -15,10 +15,9 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: <GoodbyeWorld />👍  
-  
+<!-- - ⚡ Fun fact: <GoodbyeWorld />👍 -->
 
-<br/>  
+<br/>
 
 
 ## My Skill Set  
@@ -130,7 +129,9 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qo5vgni3j6dt2rmxg74dx4f5pm&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><a href="https://app.daily.dev/RotrixX"><img src="https://api.daily.dev/devcards/41dfb10905dd4a32a60ef07d0eda3913.png?r=ugy" width="400" alt="RotrixX's Dev Card"/></a></div>
+
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qo5vgni3j6dt2rmxg74dx4f5pm&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div> -->
 
 <br/>  
 
