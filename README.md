@@ -125,6 +125,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Rust and its friendly crates: Don&#39;t miss out on them!](https://dev.to/rotrixx/rust-and-its-friendly-crates-dont-miss-out-on-them-2hg1)
 - [Please stop using create react app.](https://dev.to/rotrixx/please-stop-using-create-react-app-2n3h)
 - [So... I&#39;m new here. Yes](https://dev.to/rotrixx/so-im-new-here-yes-4090)
 <!-- BLOG-POST-LIST:END -->  
