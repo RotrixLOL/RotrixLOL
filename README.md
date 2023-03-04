@@ -125,6 +125,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Rust vs. Go: Comparison of Two Popular Programming Languages](https://dev.to/rotrixx/rust-vs-go-comparison-of-two-popular-programming-languages-1067)
 - [Rust and its friendly crates: Don&#39;t miss out on them!](https://dev.to/rotrixx/rust-and-its-friendly-crates-dont-miss-out-on-them-2hg1)
 - [Please stop using create react app.](https://dev.to/rotrixx/please-stop-using-create-react-app-2n3h)
 <!-- BLOG-POST-LIST:END -->  
