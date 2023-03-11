@@ -85,11 +85,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RotrixLOL&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
-<br/>  
-
-## Awards
-[![@rotrixx's Holopin board](https://holopin.me/rotrixx)](https://holopin.io/@rotrixx)
-
+<br/>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -110,12 +106,3 @@
 <img src="https://komarev.com/ghpvc/?username=RotrixLOL&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center"></div>
-<br />
-<hr />
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" align center />
-<div/>
