@@ -1,7 +1,7 @@
 <!-- Tracker -->
 ![](https://hit.yhype.me/github/profile?user_id=68074047)
 
-### <div align="center">I'm RotrixX, a full-stack developer 👨‍💻 since 2022 🚀</div>  
+# <div align="center">I'm RotrixX, a full-stack developer 👨‍💻 since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [RotrixX Projects](https://rotrixx.eu)  
