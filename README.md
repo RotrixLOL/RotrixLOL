@@ -82,8 +82,11 @@
 
 <br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RotrixLOL&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+## Stats
+<div style="display: flex; flex-direction: row;" align="center">
+  <a href="https://app.daily.dev/RotrixX"><img src="https://github.com/RotrixLOL/RotrixLOL/blob/main/devcard.svg" width="350" alt="RotrixX's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RotrixLOL&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="bottom"/>
+</div>
 
 <br/>
 
@@ -94,9 +97,7 @@
 - [Please stop using create react app.](https://dev.to/rotrixx/please-stop-using-create-react-app-2n3h)
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><a href="https://app.daily.dev/RotrixX"><img src="https://github.com/RotrixLOL/RotrixLOL/blob/main/devcard.svg" width="400" alt="RotrixX's Dev Card"/></a></div>
+<br/>
 
 <!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qo5vgni3j6dt2rmxg74dx4f5pm&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div> -->
 
