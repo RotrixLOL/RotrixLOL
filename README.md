@@ -1,11 +1,6 @@
 <!-- Tracker -->
 ![](https://hit.yhype.me/github/profile?user_id=68074047)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm RotrixX, a full-stack developer 👨‍💻 since 2022 🚀</div>  
   
 
