@@ -60,23 +60,3 @@
   <a href="https://app.daily.dev/RotrixX"><img src="https://github.com/RotrixLOL/RotrixLOL/blob/main/devcard.svg" width="350" alt="RotrixX's Dev Card"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=RotrixLOL&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="bottom"/>
 </div>
-
-<br/>
-
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Rust vs. Go: Comparison of Two Popular Programming Languages](https://dev.to/rotrixx/rust-vs-go-comparison-of-two-popular-programming-languages-1067)
-- [Rust and its friendly crates: Don&#39;t miss out on them!](https://dev.to/rotrixx/rust-and-its-friendly-crates-dont-miss-out-on-them-2hg1)
-- [Please stop using create react app.](https://dev.to/rotrixx/please-stop-using-create-react-app-2n3h)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qo5vgni3j6dt2rmxg74dx4f5pm&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div> -->
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RotrixLOL&&style=flat-square" align="center" />
-</div>
-  
